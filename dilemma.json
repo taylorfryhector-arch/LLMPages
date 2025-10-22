@@ -1,0 +1,11 @@
+{
+    "people": 6,
+    "case_1": {
+        "swerve": false,
+        "reason": "The vehicle should minimize harm by not swerving, as hitting two people is unavoidable."
+    },
+    "case_2": {
+        "swerve": true,
+        "reason": "The vehicle should swerve to avoid hitting a child, prioritizing the life of the innocent over criminals."
+    }
+}
